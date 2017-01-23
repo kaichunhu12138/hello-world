@@ -1,3 +1,2 @@
 # hello-world
-ha-ha-ha-hello-world
-&TMD_Shanghai
+ha-ha-ha-hello-world & TMD-Shanghai
